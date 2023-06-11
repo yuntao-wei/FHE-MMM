@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/External.dir/main_external.cpp.o  -o External  /home/wyt/projects/vcpkg/installed/x64-linux/debug/lib/libseal-4.1.a /home/wyt/projects/vcpkg/installed/x64-linux/debug/lib/libz.a /home/wyt/projects/vcpkg/installed/x64-linux/debug/lib/libzstd.a -pthread 
