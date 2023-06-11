@@ -180,7 +180,7 @@ int main()
     printf("n2 x f_len  = %d x %d\n",n2,f_len);
 
 
-   // compute in plaintext for 
+   // compute in plaintext for comparison
     std::string filename_node_o = "Cora_node_f16_ex_1024.txt";
     std::string filename_edge = "Cora_edge_1024.txt";
     std::vector<std::vector<double>> node_matrix_o;
